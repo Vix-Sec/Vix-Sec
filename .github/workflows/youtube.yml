@@ -1,0 +1,48 @@
+name: Update YouTube Cards
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+
+        uses: actions/setup-python@v5
+
+        with:
+
+          python-version: "3.12"
+
+      - name: Install Requests
+
+        run: pip install requests
+
+      - name: Generate Cards
+
+        run: python generate_youtube.py
+
+      - name: Commit Changes
+
+        uses: stefanzweifel/git-auto-commit-action@v5
+
+        with:
+
+          commit_message: "Updated latest YouTube videos"
