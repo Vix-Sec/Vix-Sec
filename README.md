@@ -57,6 +57,35 @@ Whether you're preparing for your first SOC Analyst role or improving your Blue 
 # 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<table><tr>
+<td align="center">
+<a href="https://youtu.be/H0gCvab0XFc">
+<img src="https://img.youtube.com/vi/H0gCvab0XFc/maxresdefault.jpg" width="340">
+</a><br>
+<b>KC7 Investigation #1 | A Rap Beef Walkthrough | Learn KQL & Think Like a SOC Analyst in Tamil</b>
+</td>
+
+<td align="center">
+<a href="https://youtu.be/R9tgh0iIbAw">
+<img src="https://img.youtube.com/vi/R9tgh0iIbAw/maxresdefault.jpg" width="340">
+</a><br>
+<b>How to Develop an Investigation Mindset as a SOC Analyst (Tamil)</b>
+</td>
+</tr><tr>
+<td align="center">
+<a href="https://youtu.be/k2E4DtZL_h8">
+<img src="https://img.youtube.com/vi/k2E4DtZL_h8/maxresdefault.jpg" width="340">
+</a><br>
+<b>SOC Analyst Skills for Beginners (Tamil) | Fundamental Skills for L1 Analysts</b>
+</td>
+
+<td align="center">
+<a href="https://youtu.be/t47NxY-bIuA">
+<img src="https://img.youtube.com/vi/t47NxY-bIuA/maxresdefault.jpg" width="340">
+</a><br>
+<b>What is SOC? How it Works (Tamil) | Types, L1 L2 L3 Roles & Reality</b>
+</td>
+</tr></table>
 <!-- YOUTUBE-VIDEOS-END -->
 
 ---
