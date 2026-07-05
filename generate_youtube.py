@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 
 CHANNEL_ID = "YOUR_CHANNEL_ID"
 
-RSS = f"https://www.youtube.com/feeds/videos.xml?channel_id={UCRs-ZxEdF1cmgRvnGrbmvNQ}"
+RSS = f"https://www.youtube.com/feeds/videos.xml?channel_id={"UCRs-ZxEdF1cmgRvnGrbmvNQ"}"
 
 response = requests.get(RSS)
 root = ET.fromstring(response.content)
