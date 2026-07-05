@@ -56,12 +56,8 @@ Whether you're preparing for your first SOC Analyst role or improving your Blue 
 
 # 🎥 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE -->
-
-<!-- These will update automatically -->
-
-
-<!-- END YOUTUBE -->
+<!-- YOUTUBE-VIDEOS-START -->
+<!-- YOUTUBE-VIDEOS-END -->
 
 ---
 
